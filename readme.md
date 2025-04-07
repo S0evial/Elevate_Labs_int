@@ -18,6 +18,10 @@ This project focuses on cleaning and preprocessing Netflix's titles dataset to p
 - Python (Pandas)
 - Git & GitHub
 
+## 📌 Dataset Source
+
+- [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
 ## 🚀 Author
 Milind Vishwakarma
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/milindvishwakarma)
